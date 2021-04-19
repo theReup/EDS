@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergey/dz/dz_5/trinket/SHA256.h
+string
+-
+array
+-
+
+/home/sergey/dz/dz_5/trinket/main.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+SHA256.h
+/home/sergey/dz/dz_5/trinket/SHA256.h
+math.h
+-
+ctime
+-
+iomanip
+-
+bits/stdc++.h
+-
+

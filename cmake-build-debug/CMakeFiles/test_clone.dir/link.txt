@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test_clone.dir/main.cpp.o CMakeFiles/test_clone.dir/SHA256.cpp.o CMakeFiles/test_clone.dir/RSA.cpp.o -o test_clone 

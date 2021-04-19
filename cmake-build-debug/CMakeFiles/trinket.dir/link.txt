@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/trinket.dir/main.cpp.o CMakeFiles/trinket.dir/SHA256.cpp.o CMakeFiles/trinket.dir/src/rsa.cpp.o CMakeFiles/trinket.dir/src/base64.cpp.o CMakeFiles/trinket.dir/src/tea/xtea.cpp.o CMakeFiles/trinket.dir/src/utils/bigint.cpp.o CMakeFiles/trinket.dir/car.cpp.o CMakeFiles/trinket.dir/trinket.cpp.o -o trinket 

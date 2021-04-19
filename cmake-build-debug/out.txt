@@ -1,0 +1,13 @@
+Trinket keypair is generated, public key is - AAAAIHpk9ar7w7qPAkvLR3JXCQWAdji1xyCj9XB/xb2xmOSd/9k=
+_______________________
+sending signal to open car, hash of data - eaf89db7108470dc3f6b23ea90618264b3e8f8b6145371667c4055e9c5ce9f52
+_______________________
+receiving signal to open car, hash of data - 96e00d6bbe426977184b9e287cbb781070a426359b67befeeba52d4703f75a69
+signal is true, sending data to verify, 2258934182
+hash of data - ee7bc3cdf580e2c8846548244a24dec0e5f1b10b32ea98b38e6e99484f0309c3
+_______________________
+encrypting with secret key and sending - oÒ÷H‡^L­ÉvJÈÒïZØ¸5·Ûù„¯ƒ¾Õ¿bÅŒºl3­Ñÿ_îN
+Ğ²V5yGm•6²Ğàµû&ZÏà•¬w·ùÿ²OâÀ6Vµ3´J1›°m÷¥9
+_______________________
+decrypting with public key - ee7bc3cdf580e2c8846548244a24dec0e5f1b10b32ea98b38e6e99484f0309c3
+CAR IS OPEN!

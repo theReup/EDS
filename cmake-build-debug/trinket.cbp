@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="trinket"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sergey/dz/dz_5/trinket/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sergey/dz/dz_5/trinket/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sergey/dz/dz_5/trinket/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trinket">
+				<Option output="/home/sergey/dz/dz_5/trinket/cmake-build-debug/trinket" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sergey/dz/dz_5/trinket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 trinket"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trinket/fast">
+				<Option output="/home/sergey/dz/dz_5/trinket/cmake-build-debug/trinket" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sergey/dz/dz_5/trinket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 trinket/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sergey/dz/dz_5/trinket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/SHA256.cpp">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/SHA256.h">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/car.cpp">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/car.h">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/main.cpp">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/base64.cpp">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/base64.h">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/rsa.cpp">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/rsa.h">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/tea/xtea.cpp">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/tea/xtea.h">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/utils/bigint.cpp">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/utils/bigint.h">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/utils/random.h">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/utils/types.h">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/src/utils/utility.h">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/trinket.cpp">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/trinket.h">
+			<Option target="trinket"/>
+		</Unit>
+		<Unit filename="/home/sergey/dz/dz_5/trinket/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
